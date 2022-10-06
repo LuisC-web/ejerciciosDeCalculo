@@ -1,0 +1,24 @@
+body{
+background-color: #16BCFF;
+width: 100vw;
+height: 100vh;
+
+}
+
+.cantidad-de-rectangulos,body,.longitud-de-la-funcion, .mostrar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    overflow: hidden;
+    flex-direction: column;
+    margin-top: 1em;
+
+}
+.contenedor{
+background:#fff;
+padding: 2em;
+margin: 2em;
+border-radius: 1em;
+
+}
